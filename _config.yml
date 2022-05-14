@@ -51,6 +51,9 @@ gems:
   - jekyll-redirect-from
   - jekyll-paginate
 
+# generate social links in footer
+social_links:
+  linkedin: ayushkr79
 
 # Google Analytics
 google_analytics: G-LQGMGMEGHR
