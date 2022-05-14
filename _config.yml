@@ -1,6 +1,6 @@
 # Setup
-title: Poole
-tagline: The Jekyll Butler
+title: Ayush Kumar
+# tagline: The Jekyll Butler
 url: https://ayushkr79.github.io
 paginate: 1
 baseurl: ""
@@ -33,9 +33,24 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: Ayush Kumar
+  url: https://www.linkedin.com/in/ayushkr79/
 
 # Custom vars
 version: 3.0.0
+
+# This is the list of pages to include in the header of the website.
+pages_list:       
+  About: '/about/'
+  Archive: '/archive/'
+  Feed: '/atom.xml'
+
+# Allow URL Redirects: 
+#  * https://help.github.com/articles/redirects-on-github-pages
+gems:
+  - jekyll-redirect-from
+  - jekyll-paginate
+
+
+# Google Analytics
+google_analytics: G-LQGMGMEGHR
