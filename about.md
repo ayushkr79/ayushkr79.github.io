@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-comments: false
 ---
 
 <!-- ![At IIT-Delhi Graduation](/assets/iitd_graduation_photo-2.png) -->
